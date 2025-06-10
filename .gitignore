@@ -1,1 +1,2 @@
-clickhouse0*/
+.env
+docker-compose.local.yml
